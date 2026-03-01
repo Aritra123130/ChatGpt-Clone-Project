@@ -237,6 +237,7 @@ npm run dev
 Runs on:
 
 http://localhost:3000
+
 3️⃣ Frontend Setup
 cd Frontend
 npm install
@@ -245,6 +246,7 @@ npm run dev
 Runs on:
 
 http://localhost:5173
+
 🔥 Key Highlights
 
 Full-stack MERN architecture
