@@ -213,9 +213,11 @@ Pinecone	Vector embeddings for semantic memory
 This combination enables both structured persistence and contextual AI recall.
 
 🔧 Installation & Setup
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/project-name.git
 cd project-name
+
 2️⃣ Backend Setup
 cd Backend
 npm install
